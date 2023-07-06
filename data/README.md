@@ -1,0 +1,1 @@
+## Please place the `ireland-news-headlines.csv` file manually here. It can't be uploaded directly to the repository because of it's size.

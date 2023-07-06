@@ -1,0 +1,6 @@
+venv/
+wandb/
+temp/
+*.pt
+*.url
+*.csv

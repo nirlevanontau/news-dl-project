@@ -15,6 +15,10 @@ And then install dependencies by running:
 
 `pip install -r requirements.txt`
 
-## News Data Setup
+## 1. News Data Setup
 
-Add the `ireland-news-headlines.csv` and `w3-latnigrin-tokens.csv` file manually to the `News` directory. It can't be uploaded directly to the repository because of it's size.
+Add the `ireland-news-headlines.csv` file manually to the `data` directory. It can't be uploaded directly to the repository because of it's size.
+
+## 2. Run Visualisation Notebook
+
+Run the `visualisation.ipynb` notebook to generate the visualisations and create the `DataFrame`s that can be later used for the 2nd part of the project.
